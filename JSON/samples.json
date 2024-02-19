@@ -3,18 +3,18 @@
     "name": "Beatboxing ",
     "file": "samples/Beatbox.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "4m"
   },
   {
     "name": "Notebook ",
     "file": "samples/Notebook.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "5m"
   },
   {
     "name": "microwave ",
     "file": "samples/Microwave.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "8m"
   }
 ]
