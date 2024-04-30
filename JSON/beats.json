@@ -1,1 +1,17 @@
-[ ]
+[
+  {
+    "name": "beat 1 clap",
+    "pitch": "C4",
+    "pattern": "1000"
+  },
+  {
+    "name": "beat 2 snare",
+    "pitch": "B3",
+    "pattern": "1000"
+  },
+  {
+    "name": "Beat 3 shot 1 ",
+    "pitch": "C#4",
+    "pattern": "1000"
+  }
+]
